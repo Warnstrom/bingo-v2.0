@@ -1,6 +1,6 @@
 # Bingo Game
 
-A dynamic Bingo game built with Angular! This application provides a customizable and interactive Bingo board where users can toggle squares to match phrases and emojis, aiming to achieve Bingo patterns. The game tracks the state of the board, identifies winning patterns, and saves user progress.
+A dynamic Bingo game built with vanilla Javascript. This application provides an interactive Bingo board where users can toggle squares to match phrases and emojis, aiming to achieve Bingo patterns. The game tracks the state of the board, identifies winning patterns, and saves user progress.
 
 ## Features
 
